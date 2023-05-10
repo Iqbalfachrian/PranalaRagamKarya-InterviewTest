@@ -1,7 +1,7 @@
 # PranalaRagamKarya-InterviewTest
 
 <h2>Deskripsi</h2>
-<h3>Membuat web automation test menggunakan tools Katalon studio pada website</h3>
+<h3>Buat web automation test menggunakan tools Katalon studio pada website</h3>
 <p>https://stage.mobipaid.com/en/register</p>
 
 <h2>Jawaban automation test</h2>
