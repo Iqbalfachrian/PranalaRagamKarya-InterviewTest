@@ -11,7 +11,7 @@
 
 ![reports](https://github.com/Iqbalfachrian/PranalaRagamKarya-InterviewTest/assets/101652940/87c1d46d-09e8-47c7-a68b-5b8e31c95702)
 
-<p>Untuk automation berhasil dijalankan dengan baik dan tidak menemukan kendala</p>
+<p>Untuk automation test berhasil dijalankan dengan baik</p>
 
 <h2>Jawaban manual test case</h2>
 <h3>Link untuk akses manual test cases</h1>
